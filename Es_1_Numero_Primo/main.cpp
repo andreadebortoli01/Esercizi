@@ -5,13 +5,14 @@ using namespace std;
 
 int main()
 {
-    int n = 31;
 
-    // cout << "Enter a positive integer: ";
-    // cin >> n;
+    int n;
+
+    cout << "inserire numero intero positivo ";
+    cin >> n;
 
     if (isPrime(n))
-        cout << n << " is a prime number";
+        cout << n << " e un numero primo";
     else
-        cout << n << " is not a prime number";
+        cout << n << " non e un numero primo";
 }
