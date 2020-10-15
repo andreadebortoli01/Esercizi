@@ -13,10 +13,10 @@ int main()
     cin >> y;
    
 
-    cout << "Somma= " << x+y << "\n" ;
-    cout << "Differenza= " << x-y << "\n" ;
-    cout << "Moltiplicazione= " << x*y << "\n" ;
-    cout << "Divisione= " << x/y << " resto= " << x % y << "\n" ;
+    cout << "Somma=" << x+y << "\n" ;
+    cout << "Differenza=" << x-y << "\n" ;
+    cout << "Moltiplicazione=" << x*y << "\n" ;
+    cout << "Divisione=" << x/y << " resto=" << x % y << "\n" ;
 
 return 0;
 }
