@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-                                //ESERCIZIO CHE CHIEDE NUMERI INTERI E CALCOLA LA MEIA DEI NUMERI PARI QUANDO
+                                //ESERCIZIO CHE CHIEDE NUMERI INTERI E CALCOLA LA MEDIA DEI NUMERI PARI QUANDO
                                 //QUANDO L'UTENTE INSERISCE 0 CALCOLA IL RISULTATO
 int main()
 {
