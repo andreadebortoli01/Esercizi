@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-    int n;
+    int n=0;
 
     cout << "inserire numero intero positivo ";
     cin >> n;
