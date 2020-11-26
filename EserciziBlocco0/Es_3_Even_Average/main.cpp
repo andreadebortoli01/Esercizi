@@ -20,4 +20,5 @@ int main()
         cin >> IN ;
     }
     cout <<"Risultato " <<sum/n << "\n";    //Risultato della media
+return 0;
 }

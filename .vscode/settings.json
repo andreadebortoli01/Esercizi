@@ -1,4 +1,13 @@
 {
+"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+"terminal.integrated.env.windows": {
+"PATH": "C:\\MinGW\\bin"
+},
+"terminal.integrated.shellArgs.windows": [
+"--login",
+"-i"
+],
+"C_Cpp.clang_format_fallbackStyle": "webkit",
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
         "iostream": "cpp"
