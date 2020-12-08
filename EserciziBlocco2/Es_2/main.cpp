@@ -1,19 +1,11 @@
+//Dato in ingresso da riga di comando un array, stamparlo in ordine inverso
 #include <iostream>
 using namespace std;
 
-int main () 
+int main(int argc, const char* argv[])
 {
-  int max=0;
-  int array[10];
-  for(int i=0;i<10;i++){
-    cout <<"inserire numero";
-    cin >>array[i];
-   
-   if (array[i] > max) {
-      max = array[i];
+    for (int c = argc-1; c >= 1; c--) {
+        cout << argv[c] << " ";
     }
-  }
-  cout <<"il numero massimo inserito e':" << max;
-  return 0;
+    return 0;
 }
-

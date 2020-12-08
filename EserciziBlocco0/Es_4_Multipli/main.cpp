@@ -12,10 +12,10 @@ int main(){
 
     
     if(a%b!=0) {
-        cout << "il primo numero non e multiplo del secondo";
+        cout << "il primo numero non e' multiplo del secondo";
         }
     else{
-        cout << "il primo numero e multiplo del secondo";
+        cout << "il primo numero e' multiplo del secondo";
     }
     
 return 0;

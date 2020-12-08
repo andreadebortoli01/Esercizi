@@ -22,7 +22,8 @@ int main()
         }
 
         if (arr[i] == 0) {
-            break;
+            cout << "il numero massimo digitato e': " << max;
+            return 0;
         }
     }
     cout << "il numero massimo digitato e': " << max;
